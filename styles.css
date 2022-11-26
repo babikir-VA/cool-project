@@ -44,7 +44,7 @@ li a:hover {
 }
 
 #hero-section {
-    background-image: url("assets/img/background.png");
+    background-image: url("assets/img/Omdurman.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -52,7 +52,7 @@ li a:hover {
     padding-top: 150px;
     padding-bottom: 150px;
     text-align: center;
-    color: purple;
+    color:red;
 }
 
 h1 {
